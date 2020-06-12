@@ -180,3 +180,4 @@ tx_crescimento_12meses,float64,388410,462298,2237,0.84
 tx_crescimento_24meses,float64,388284,462298,3388,0.84
 tx_rotatividade,float64,358724,462298,2548,0.78
 qt_filiais,int64,0,462298,304,0.0
+Empresa,object,0,462298,462298,0.0
